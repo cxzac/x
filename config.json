@@ -96,7 +96,7 @@
     "dns": {
         "ipv6": false,
         "ttl": 30,
-        "ipv4": 1.1.1.1
+        "ipv4": "1.1.1.1"
     },
     "user-agent": null,
     "verbose": 0,
